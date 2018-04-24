@@ -1,6 +1,6 @@
 # Survey of Visual Feature Extraction Algorithms in a Mars-like environment
 
-Martin Oelsch, Dominik Van Opdenbosch, Eckehard Steinbach, **Survey of Visual Feature Extraction Algorithms in a Mars-like Environment**. *IEEE International Symposium on Multimedia,* 2017.
+Martin Oelsch, Dominik Van Opdenbosch, Eckehard Steinbach, **Survey of Visual Feature Extraction Algorithms in a Mars-like Environment**. *IEEE International Symposium on Multimedia,Taichung, Taiwan* (2017).
 
 ## Description
 Feature detection and description algorithms are widely used for computer vision applications, such as SLAM, object detection, content-based image retrieval, etc.
